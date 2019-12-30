@@ -3,6 +3,8 @@
 >[《Elasticsearch 权威指南》中文版](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
 >
 >[《FOSElasticaBundle》](https://github.com/FriendsOfSymfony/FOSElasticaBundle)
+>
+>[《go-mysql-elasticsearch》](https://github.com/siddontang/go-mysql-elasticsearch)
 
 ## elasticsearch 基础
 
