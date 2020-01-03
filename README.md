@@ -141,3 +141,6 @@
 		        }
 		    }
 		}
+		
+- [查看ElasticSearch服务状态和结果的URL](https://www.cnblogs.com/zhengchunyuan/p/9958905.html)
+- [如何通过Elasticsearch进行聚合检索 (分组统计)](https://www.lmlphp.com/user/136/article/item/355428/)
